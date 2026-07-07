@@ -17,3 +17,6 @@ Question 2 -Longest Increasing Subsequence (LIS)
              python Question1.py
                       or
              python Question2.py 
+
+#Author 
+Anahika 
